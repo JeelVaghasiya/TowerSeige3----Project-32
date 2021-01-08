@@ -19,7 +19,7 @@ var backgroundImg;
 var slingShot;
 var score = 0;
 
-var bg = loadImage("sprites/day.jpg")
+var bg = ("sprites/day.jpg")
 
 function preload() {
   polygonImage = loadImage("sprites/polygon.png");
